@@ -1,0 +1,7 @@
+[
+  { "Name": "Overnight Oats", "Minutes": 10, "Category": "Breakfast" },
+  { "Name": "Tomato Soup", "Minutes": 25, "Category": "Lunch" },
+  { "Name": "Lemon Garlic Pasta", "Minutes": 30, "Category": "Dinner" },
+  { "Name": "Apple Crumble", "Minutes": 50, "Category": "Baking" },
+  { "Name": "Banana Bread", "Minutes": 70, "Category": "Baking" }
+]
